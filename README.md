@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/ynDFqmC4/Gemini-Generated-Image-hps8chhps8chhps8-Photoroom.png" width="220"/>
-
+<img <img src="https://i.ibb.co/vvhKH5bs/Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom.png" alt="Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom" border="0"></a> 
 
 # SV SYSTEMS
 
