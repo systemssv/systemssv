@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/vvhKH5bs/Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom.png" alt="Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom" width="250"></a> 
+  <img src="https://i.ibb.co/vvhKH5bs/Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom.png" alt="Chat-GPT-Image-12-de-mai-de-2026-15-19-07-Photoroom" width="230"></a> 
 
 # SV SYSTEMS
 
