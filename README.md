@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://ibb.co/wr7xRHTJ" width="220"/>
+<img src="https://i.ibb.co/ynDFqmC4/Gemini-Generated-Image-hps8chhps8chhps8-Photoroom.png" width="220"/>
+
 
 # SV SYSTEMS
 
